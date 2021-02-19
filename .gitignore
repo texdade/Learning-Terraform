@@ -1,0 +1,4 @@
+*.lock.hcl
+*.exe
+*.tfstate
+*tfstate.backup
